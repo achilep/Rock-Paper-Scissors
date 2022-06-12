@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors
 
-###Resources used
+### Resources used
 
 [How to Play Rock, Paper, Scissors](https://www.youtube.com/watch?v=ND4fd6yScBM)
 
